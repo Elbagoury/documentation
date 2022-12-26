@@ -1,3 +1,5 @@
+.. _accounting/taxation/taxes:
+
 =====
 Taxes
 =====
