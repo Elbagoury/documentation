@@ -11,3 +11,4 @@ Products & Prices
    products_prices/taxes
    products_prices/prices
    products_prices/returns.rst
+   products_prices/ewallets_giftcards.rst
